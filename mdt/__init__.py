@@ -1,0 +1,5 @@
+__version__ = "0.0.1"
+__project__ = "MDT Policy"
+__author__ = "Dummy"
+__license__ = "MIT"
+__email__ = "Dummy"
